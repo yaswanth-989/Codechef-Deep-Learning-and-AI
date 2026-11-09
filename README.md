@@ -25,22 +25,11 @@
 
 | Language | Solutions |
 |:---:|:---:|
-| C++ | **10** |
+| python | **10** |
 | markdown | **3** |
 | default | **2** |
 
-## 📂 Repository Structure
 
-```
-📦 coding-solutions/
-├── leetcode/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
-├── hackerrank/
-├── codechef/
-└── gfg/
-```
 
 ---
 
