@@ -4,16 +4,20 @@
 
 ## Problem
 
-_Description not available._
+### Activation MCQ
+
+A network  **without**  any activation functions is used to separate two classes shaped like circles inside each other (non-linear boundary).
+
+What will likely happen?
 
 ## Solution
 
-**Language:** markdown  
+**Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-09T07:57:29.026Z  
+**Submitted:** 2026-11-09T07:58:19.943Z  
 
-```markdown
+```cpp
 4*12 -30 = 18
 ```
 
