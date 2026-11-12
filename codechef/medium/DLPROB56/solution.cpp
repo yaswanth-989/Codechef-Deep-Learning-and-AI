@@ -1,13 +1,3 @@
-img_modified = enhancer.enhance(1.2)
-
-# 3. Convert both images into NumPy arrays
-arr_original = np.array(img)
-arr_modified = np.array(img_modified)
-
-# 4. Show that pixel values are different
-print("Original image pixel sample:", arr_original[0][:5])
-print("Modified image pixel sample:", arr_modified[0][:5])
-
 # 5. Measure numeric difference caused by small visual change
 difference = np.abs(arr_original - arr_modified)
 print("Average pixel difference:", difference.mean())
