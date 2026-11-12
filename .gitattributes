@@ -1,3 +1,4 @@
 * linguist-language=Python
 *.cpp linguist-vendored=true
 *.cc linguist-vendored=true
+*.h linguist-vendored=true
